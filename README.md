@@ -1,3 +1,3 @@
 # Actionable FAIR4RS
 
-[Project Documents & Templates](1 List of Project Documents.md)
+[Project Documents & Templates](https://github.com/researchsoft/Actionable-FAIR4RS/blob/main/1%20List%20of%20Project%20Documents.md)
