@@ -8,4 +8,4 @@
 6.   - [Search Results discussion Template] (https://docs.google.com/spreadsheets/d/1xhIB_d7TXKtwF2R9DaAW9O5jeot2Ilkg-n8yzigOhEM/edit)
      - [Literature Review Template](https://docs.google.com/spreadsheets/d/1JnoCuEoFEIRB5C3d2hcKuGq_2nAUu5cke3L1G0Y2-bU/edit?gid=1399623630)
      - [Search results via LLM Template](https://docs.google.com/spreadsheets/d/1W0Q8L32t8VEt0buzV5jgz7tWsmHrCfe8JbJbjqHLYSw/)
-7. [Abstract Review Instructions e.g. ](https://docs.google.com/document/d/1EExFOcH2BnYguhsfM64Q-b5Tf_RqzwRXYMB7u_K6S1E/))
+7. [Abstract Review Instructions e.g. ](https://docs.google.com/document/d/1EExFOcH2BnYguhsfM64Q-b5Tf_RqzwRXYMB7u_K6S1E/)
